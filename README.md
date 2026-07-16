@@ -1,6 +1,6 @@
 # Java Generics Practice
 
-Hi! This repo is dedicated to learning and practicing **generics and generic types in Java**, using small, focused examples. Each example follows the same core pattern which is:
+ach example follows the same core pattern which is:
 
 > Loop through a collection → check each element against a property → count how many match.
 
