@@ -1,6 +1,6 @@
 # Java Generics Practice
 
-ach example follows the same core pattern which is:
+Each example follows the same core pattern which is:
 
 > Loop through a collection → check each element against a property → count how many match.
 
